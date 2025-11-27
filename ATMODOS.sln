@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATMODOS", "ATMODOS.csproj", "{75704BF4-9F5F-4C92-9097-BC2D12373FC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75704BF4-9F5F-4C92-9097-BC2D12373FC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75704BF4-9F5F-4C92-9097-BC2D12373FC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75704BF4-9F5F-4C92-9097-BC2D12373FC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75704BF4-9F5F-4C92-9097-BC2D12373FC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE15A6D6-F870-44B3-8B58-E44BAD92D478}
+	EndGlobalSection
+EndGlobal
